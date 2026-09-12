@@ -1,78 +1,83 @@
-# Hi, I'm Shiv Jyotsana Kaushal 
+<div align="center">
 
-**MCA Student | Full Stack Developer | MERN | Java & DSA | AI Integration**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Shiv%20Jyotsana%20Kaushal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Full%20Stack%20Developer%20(MERN)&descAlignY=58&descSize=18" />
 
-##  About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Java+%26+Data+Structures;Exploring+AI+Integration" alt="Typing SVG" />
 
-I'm an MCA student focused on Full Stack Development with the MERN stack and Java. I enjoy building real-world applications, strengthening my problem-solving skills through Data Structures & Algorithms, and exploring how AI can be integrated into modern web applications.
+<img src="https://komarev.com/ghpvc/?username=jyotsana764&style=flat-square&color=2E9EF7" alt="Profile views" />
 
-##  Tech Stack
+</div>
 
-### Frontend
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 👨‍💻 About Me
 
-### Backend
+MCA student focused on full-stack development with the MERN stack and Java. I build real-world applications, sharpen my problem-solving through Data Structures & Algorithms, and explore how AI can be integrated into modern web applications.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+---
 
-### Database
+## 🛠️ Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-### Programming
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,mysql,java,git,github,postman,vscode&theme=dark" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+</div>
 
-### Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-##  Currently Learning
+## 📚 Currently Learning
 
 - Java
 - Data Structures & Algorithms
-- Full Stack Development
-- MERN Stack
+- Full Stack Development (MERN)
 - AI Integration
 
-##  Featured Projects
+---
 
-- **[Portfolio](https://github.com/jyotsana764/portfolio)** — Personal full-stack portfolio built with React, Node.js and Express.
+## 🚀 Featured Projects
 
-- **[Hospital Management System](https://github.com/jyotsana764/Hospital-Management-System)** — Django-based hospital management application.
+| Project | Description |
+|---|---|
+| **[Portfolio](https://github.com/jyotsana764/portfolio)** | Personal full-stack portfolio built with React, Node.js, and Express |
+| **[Hospital Management System](https://github.com/jyotsana764/Hospital-Management-System)** | Django-based hospital management application |
+| **[E-Commerce Website](https://github.com/jyotsana764/E-Commerce-Website)** | Multi-page e-commerce application with a PHP/MySQL backend |
 
-- **[E-Commerce Website](https://github.com/jyotsana764/E-Commerce-Website)** — Multi-page e-commerce application with PHP/MySQL backend.
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyotsana764&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+<div align="center">
 
-##  GitHub Streak
+<img src="https://github-readme-stats.vercel.app/api?username=jyotsana764&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsana764&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jyotsana764&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=jyotsana764&theme=tokyonight&hide_border=true" height="165" />
 
-##  Career Goals
+</div>
 
-Building real-world full-stack applications, strengthening Java and DSA, and preparing for Software Development and Full Stack internships and placements, with a growing focus on AI-integrated applications.
+<!-- Optional: animated contribution snake — see setup note below -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/jyotsana764/jyotsana764/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 
-##  Connect With Me
+---
 
--  LinkedIn: [Shiv Jyotsana Kaushal](https://www.linkedin.com/in/shiv-jyotsana-kaushal-752bb0309/)
--  Portfolio: [My Portfolio](https://portfolio-xr2r.vercel.app/)
--  Email: [sjyotsana0808@gmail.com](mailto:sjyotsana0808@gmail.com)
--  GitHub: [jyotsana764](https://github.com/jyotsana764)
+## 🎯 Career Goals
+
+Building real-world full-stack applications, strengthening Java and DSA, and preparing for Software Development and Full Stack internships and placements — with a growing focus on AI-integrated applications.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-jyotsana-kaushal-752bb0309/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-xr2r.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjyotsana0808@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotsana764)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" />
