@@ -57,9 +57,11 @@ I'm an MCA student focused on Full Stack Development with the MERN stack and Jav
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotsana764)
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jyotsana764&theme=flat&no-frame=true&row=1&column=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jyotsana764&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+</p>
 
 ## Career Goals
 
