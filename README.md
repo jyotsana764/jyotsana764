@@ -21,13 +21,13 @@
 
 <br/>
 
-<h2 id="about">👨‍💻 About Me</h2>
+<h2 id="about"><img src="https://img.shields.io/badge/About_Me-0F2027?style=for-the-badge&labelColor=2E9EF7&color=0F2027" /></h2>
 
 MCA student focused on full-stack development with the MERN stack and Java. I build real-world applications, sharpen my problem-solving through Data Structures & Algorithms, and explore how AI can be integrated into modern web applications.
 
 <br/>
 
-<h2 id="stack">🛠️ Tech Stack</h2>
+<h2 id="stack"><img src="https://img.shields.io/badge/Tech_Stack-0F2027?style=for-the-badge&labelColor=2E9EF7&color=0F2027" /></h2>
 
 <table>
 <tr>
@@ -88,13 +88,13 @@ MCA student focused on full-stack development with the MERN stack and Java. I bu
 
 <br/>
 
-## 📚 Currently Learning
+<h2><img src="https://img.shields.io/badge/Currently_Learning-0F2027?style=for-the-badge&labelColor=2E9EF7&color=0F2027" /></h2>
 
 `Java` `Data Structures & Algorithms` `Full Stack Development (MERN)` `AI Integration`
 
 <br/>
 
-<h2 id="projects">🚀 Featured Projects</h2>
+<h2 id="projects"><img src="https://img.shields.io/badge/Featured_Projects-0F2027?style=for-the-badge&labelColor=2E9EF7&color=0F2027" /></h2>
 
 <table>
 <tr>
@@ -126,7 +126,7 @@ Multi-page e-commerce app
 
 <br/>
 
-<h2 id="stats">📊 GitHub Stats</h2>
+<h2 id="stats"><img src="https://img.shields.io/badge/GitHub_Stats-0F2027?style=for-the-badge&labelColor=2E9EF7&color=0F2027" /></h2>
 
 <div align="center">
 
@@ -138,13 +138,13 @@ Multi-page e-commerce app
 
 </div>
 
-<h2 id="connect">🎯 Career Goals</h2>
+<h2><img src="https://img.shields.io/badge/Career_Goals-0F2027?style=for-the-badge&labelColor=2E9EF7&color=0F2027" /></h2>
 
 > Building real-world full-stack applications, strengthening Java and DSA, and preparing for Software Development and Full Stack internships and placements — with a growing focus on AI-integrated applications.
 
 <br/>
 
-## 🤝 Connect With Me
+<h2 id="connect"><img src="https://img.shields.io/badge/Connect_With_Me-0F2027?style=for-the-badge&labelColor=2E9EF7&color=0F2027" /></h2>
 
 <div align="center">
 
