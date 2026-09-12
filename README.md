@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2E9EF7?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2E9EF7?style=for-the-badge&labelColor=0F2027" alt="Open to Work" />
 <img src="https://komarev.com/ghpvc/?username=jyotsana764&label=Profile%20Views&color=2E9EF7&style=for-the-badge&labelColor=0F2027" alt="Profile Views" />
 
 <br/><br/>
@@ -23,92 +23,131 @@
 
 <h2 id="about">👨‍💻 About Me</h2>
 
-MCA student focused on full-stack development with the MERN stack and Java. I build real-world applications, sharpen my problem-solving through Data Structures & Algorithms, and explore how AI can be integrated into modern web applications.
+MCA student focused on full-stack development with the MERN stack and Java. I build real-world applications, strengthen my problem-solving skills through Data Structures & Algorithms, and explore how AI can be integrated into modern web applications.
 
-<br/>
+---
 
 <h2 id="stack">🛠️ Tech Stack</h2>
 
-<table>
-<tr>
-<td valign="top" width="20%"><b>Frontend</b></td>
-<td>
-<img title="React" src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36"/>
-<img title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36"/>
-<img title="HTML5" src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36"/>
-<img title="CSS3" src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36"/>
-<img title="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td>
-<img title="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36"/>
-<img title="Express.js" src="https://cdn.simpleicons.org/express/000000" width="36" height="36"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Database</b></td>
-<td>
-<img title="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36"/>
-<img title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Languages</b></td>
-<td>
-<img title="Java" src="https://cdn.simpleicons.org/openjdk/ED8B00" width="36" height="36"/>
-<img title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Tools</b></td>
-<td>
-<img title="Git" src="https://cdn.simpleicons.org/git/F05032" width="36" height="36"/>
-<img title="GitHub" src="https://cdn.simpleicons.org/github/181717" width="36" height="36"/>
-<img title="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36"/>
-<img title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="36" height="36"/>
-</td>
-</tr>
-</table>
+### Frontend
 
-<br/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+</div>
+
+### Backend
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+</div>
+
+### Database
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+</div>
+
+### Programming Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+</div>
+
+### Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</div>
+
+---
 
 ## 📚 Currently Learning
 
-`Java` `Data Structures & Algorithms` `Full Stack Development (MERN)` `AI Integration`
+<div align="center">
 
-<br/>
+`Java` `Data Structures & Algorithms` `MERN Stack` `AI Integration`
+
+</div>
+
+---
 
 <h2 id="projects">🚀 Featured Projects</h2>
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-**[Portfolio](https://github.com/jyotsana764/portfolio)**
-Full-stack personal portfolio
-`React` `Node.js` `Express`
+### 💼 Portfolio
+
+**Personal Full-Stack Portfolio**
+
+Built with React, Node.js, and Express.
+
+**Tech:** `React` `Node.js` `Express`
+
+<br/>
+
+<a href="https://github.com/jyotsana764/portfolio">View Repository →</a>
 
 </td>
+
 <td width="33%" valign="top">
 
-**[Hospital Management System](https://github.com/jyotsana764/Hospital-Management-System)**
-Hospital management application
-`Django` `Python`
+### 🏥 Hospital Management
+
+**Hospital Management Application**
+
+A Django-based application for managing hospital operations.
+
+**Tech:** `Django` `Python`
+
+<br/>
+
+<a href="https://github.com/jyotsana764/Hospital-Management-System">View Repository →</a>
 
 </td>
+
 <td width="33%" valign="top">
 
-**[E-Commerce Website](https://github.com/jyotsana764/E-Commerce-Website)**
-Multi-page e-commerce app
-`PHP` `MySQL`
+### 🛒 E-Commerce Website
+
+**Multi-Page E-Commerce Application**
+
+E-commerce application with PHP/MySQL backend.
+
+**Tech:** `PHP` `MySQL`
+
+<br/>
+
+<a href="https://github.com/jyotsana764/E-Commerce-Website">View Repository →</a>
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
 
 <h2 id="stats">📊 GitHub Stats</h2>
 
@@ -122,20 +161,41 @@ Multi-page e-commerce app
 
 </div>
 
-<h2 id="connect">🎯 Career Goals</h2>
+---
 
-> Building real-world full-stack applications, strengthening Java and DSA, and preparing for Software Development and Full Stack internships and placements — with a growing focus on AI-integrated applications.
+<h2>🎯 Career Goals</h2>
 
-<br/>
+> Building real-world full-stack applications, strengthening Java and DSA, and preparing for Software Development and Full Stack internships and placements, with a growing focus on AI-integrated applications.
 
-## 🤝 Connect With Me
+---
+
+<h2 id="connect">🤝 Connect With Me</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-jyotsana-kaushal-752bb0309/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-xr2r.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjyotsana0808@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotsana764)
+<a href="https://www.linkedin.com/in/shiv-jyotsana-kaushal-752bb0309/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://portfolio-xr2r.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="mailto:sjyotsana0808@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/jyotsana764">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
 
