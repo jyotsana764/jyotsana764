@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Java+%26+Data+Structures+%26+Algorithms;Exploring+AI+Integration" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=jyotsana764&style=flat-square&color=2E9EF7" alt="Profile views" />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=jyotsana764&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -48,7 +50,7 @@ MCA student focused on full-stack development with the MERN stack and Java. I en
 
 </div>
 
-### Programming
+### Programming Languages
 
 <div align="center">
 
@@ -136,3 +138,5 @@ Building real-world full-stack applications, strengthening Java and DSA, and pre
 ### ⭐ Thanks for visiting my profile!
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" />
