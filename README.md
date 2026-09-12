@@ -49,19 +49,17 @@ MCA student focused on full-stack development with the MERN stack and Java. I bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyotsana764&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsana764&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=jyotsana764&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyotsana764&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
 
-<!-- Optional: animated contribution snake — see setup note below -->
+## 🔥 GitHub Streak
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/jyotsana764/jyotsana764/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
 
----
+<img src="https://streak-stats.demolab.com/?user=jyotsana764&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ## 🎯 Career Goals
 
