@@ -20,23 +20,34 @@ MCA student focused on full-stack development with the MERN stack and Java. I bu
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+<img title="React" src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40"/>
+<img title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40"/>
+<img title="HTML5" src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40"/>
+<img title="CSS3" src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40"/>
+<img title="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img title="Node.js" src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40"/>
+<img title="Express.js" src="https://cdn.simpleicons.org/express/000000" width="40" height="40"/>
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img title="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40"/>
+<img title="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40"/>
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
+<img title="Java" src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" height="40"/>
+<img title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+<img title="Git" src="https://cdn.simpleicons.org/git/F05032" width="40" height="40"/>
+<img title="GitHub" src="https://cdn.simpleicons.org/github/181717" width="40" height="40"/>
+<img title="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40"/>
+<img title="VS Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" height="40"/>
+
 ## 📚 Currently Learning
 
 - Java
