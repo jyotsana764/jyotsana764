@@ -47,10 +47,12 @@ I'm an MCA student focused on Full Stack Development with the MERN stack and Jav
 - **[Hospital Management System](https://github.com/jyotsana764/Hospital-Management-System)** — Django-based hospital management application
 - **[E-Commerce Website](https://github.com/jyotsana764/E-Commerce-Website)** — Multi-page e-commerce frontend with a PHP/MySQL backend
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotsana764&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsana764&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotsana764&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsana764&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
 ## GitHub Streak
 
