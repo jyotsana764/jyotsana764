@@ -18,14 +18,25 @@ MCA student focused on full-stack development with the MERN stack and Java. I bu
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,mysql,java,git,github,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
 
-</div>
+**Backend**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 ## 📚 Currently Learning
 
 - Java
