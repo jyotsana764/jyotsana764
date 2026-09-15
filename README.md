@@ -9,7 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=jyotsana764&label=Profile%20Views&color=2E9EF7&style=for-the-badge&labelColor=0F2027" alt="Profile Views" />
 
 <br/><br/>
-
 <a href="#about">About</a> •
 <a href="#stack">Tech Stack</a> •
 <a href="#projects">Projects</a> •
